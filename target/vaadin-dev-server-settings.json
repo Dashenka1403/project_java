@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/javalab/flow-crm-tutorial/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/javalab/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "staticOutput": "C:/javalab/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\javalab\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\javalab\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/javalab/flow-crm-tutorial/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/javalab/flow-crm-tutorial/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/javalab/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "C:\\javalab\\flow-crm-tutorial\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'offline.html'"
+}
